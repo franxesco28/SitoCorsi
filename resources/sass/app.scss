@@ -1,0 +1,17 @@
+@import "bootstrap/scss/bootstrap";
+body{
+    background-color: red;
+}
+ * + *{
+     box-sizing: border-box;
+     margin: unset;
+ }
+div.container{
+    background-color: #2282d0;
+    border-radius: 60%;
+    margin-top: 3rem;
+}
+
+div>h1{
+    color: #fafafa;
+}
